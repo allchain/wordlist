@@ -1,0 +1,26 @@
+{
+  "name": "@allchain/wordlist",
+  "version": "1.1.0",
+  "description": "allchain Brain Wallets wordlist library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.spec.js",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allchain/wordlist.git"
+  },
+  "author": "Allchain Technologies <admin@allchain.io>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/allchain/wordlist/issues"
+  },
+  "homepage": "https://github.com/allchain/wordlist#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2",
+    "mocha": "^3.2.0",
+    "standard": "^9.0.2"
+  }
+}

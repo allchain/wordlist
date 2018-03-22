@@ -1,0 +1,11 @@
+[package]
+name = "allchain-wordlist"
+version = "1.2.0"
+description = "Word list used to generate brain wallets for Allchain."
+license = "GPL-3.0"
+authors = ["Allchain Technologies <admin@allchain.io>"]
+
+[dependencies]
+lazy_static = "0.2"
+rand = "0.3"
+itertools = "0.5"
